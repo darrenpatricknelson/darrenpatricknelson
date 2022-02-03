@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/darren-nelson-950a14169/" target="blank"><img align="left" alt="Darren Nelson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/d_nelson10/" target="blank"><img align="left" alt="Darren Nelson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009888397460" target="blank"><img align="left" alt="Darren Nelson | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://www.linkedin.com/in/darren-nelson-950a14169/" target="_blank"><img align="left" alt="Darren Nelson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/d_nelson10/" target="_blank"><img align="left" alt="Darren Nelson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009888397460" target="_blank"><img align="left" alt="Darren Nelson | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <br />
 
 ### Languages and tools
