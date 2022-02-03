@@ -9,10 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Darren Nelson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Darren Nelson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Darren Nelson | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
+<a href="https://www.instagram.com/d_nelson10/" target="blank"><img align="left" alt="Darren Nelson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009888397460" target="blank"><img align="left" alt="Darren Nelson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.linkedin.com/in/darren-nelson-950a14169/" target="blank"><img align="left" alt="Darren Nelson | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <br />
 
 ### Languages and tools
@@ -27,9 +26,9 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<br />
+<!-- <br />
 <br />
 
 [instagram]: <a href="https://www.instagram.com/d_nelson10/" target="blank"></a>
 [facebook]: <a href="https://www.facebook.com/profile.php?id=100009888397460" target="blank"></a>
-[linkedin]: <a href="https://www.linkedin.com/in/darren-nelson-950a14169/" target="blank"></a>
+[linkedin]: <a href="https://www.linkedin.com/in/darren-nelson-950a14169/" target="blank"></a> -->
