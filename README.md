@@ -70,11 +70,11 @@
 
 .tooltip {
   position: relative;
-  display: inline-block;
+  display: inline;
 }
 
 .tooltip .tooltiptext {
-  visibility: hidden;
+  display: none;
   width: 120px;
   background-color: black;
   color: #fff;
@@ -88,6 +88,6 @@
 }
 
 .tooltip:hover .tooltiptext {
-  visibility: visible;
+  display: inline;
 }
 </style>
