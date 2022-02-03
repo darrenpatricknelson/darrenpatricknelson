@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Darren Nelson | LinkedIn" width="22px" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Darren Nelson | Instagram" width="22px" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Darren Nelson | Facebook" width="22px" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Darren Nelson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Darren Nelson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Darren Nelson | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -30,6 +30,6 @@
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/d_nelson10/
-[facebook]: https://www.facebook.com/profile.php?id=100009888397460
-[linkedin]: https://www.linkedin.com/in/darren-nelson-950a14169/
+[instagram]: <a href="https://www.instagram.com/d_nelson10/" target="blank"></a>
+[facebook]: <a href="https://www.facebook.com/profile.php?id=100009888397460" target="blank"></a>
+[linkedin]: <a href="https://www.linkedin.com/in/darren-nelson-950a14169/" target="blank"></a>
