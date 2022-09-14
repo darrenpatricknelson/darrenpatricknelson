@@ -3,7 +3,7 @@
 ## I'm an aspiring web developer
 
 - 🧐 Currently developing my own personal website
-- 🤯 Studying Full stack Web development @ [HyperionDev][hyperiodev]
+- 🤯 Certified Full stack Web development through [HyperionDev][hyperiodev]
 - 🥅 2022 goals: Finish studies and become a junior developer
 - ⚡ Fun fact: I did not know if coding was for me until the end of 2021
 
