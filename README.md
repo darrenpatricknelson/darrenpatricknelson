@@ -4,7 +4,8 @@
 
 - 🧐 Currently developing my own personal website
 - 🤯 Certified Full stack Web development through [HyperionDev][hyperiodev]
-- 🥅 2022 goals: Finish studies and become a junior developer
+- 🥅 2022 goals: Finish studies
+- 🥅 2023 goals: Learn more about code
 - ⚡ Fun fact: I did not know if coding was for me until the end of 2021
 
 ### Connect with me:
